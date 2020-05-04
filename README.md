@@ -33,7 +33,6 @@ for i in range(10):
 
 IDK let's change the file in VSC and see.
 
-
 ## VSC and git
 More stuff here. Can we do source control with VSC?
 
