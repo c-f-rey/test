@@ -32,3 +32,9 @@ for i in range(10):
 ## What is the commit status and stuff?
 
 IDK let's change the file in VSC and see.
+
+
+## VSC and git
+More stuff here. Can we do source control with VSC?
+
+and more here.
