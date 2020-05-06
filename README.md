@@ -40,3 +40,6 @@ and more here.
 
  # Remote Changes
  I did this on github
+
+# Local Change
+Yes that is cool. But I can also change it locally.
