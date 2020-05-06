@@ -1,5 +1,6 @@
 # This is the title
 We are going to learn git today.
+This is the best instructor in the universe.
 
 ## Introduction
 This is where we write the introduction.
